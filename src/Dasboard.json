@@ -1,0 +1,7 @@
+[
+  { "name": "Michael", "age": 30, "birthdate": "11/10/1989", "city": "Paris" },
+  { "name": "Rish", "age": 23, "birthdate": "13/10/1989", "city": "London" },
+  { "name": "John", "age": 33, "birthdate": "11/10/1999", "city": "Paris" },
+  { "name": "Riyan", "age": 33, "birthdate": "01/10/1979", "city": "London" },
+  { "name": "Emil", "age": 23, "birthdate": "11/10/1990", "city": "Paris" }
+]

@@ -1,0 +1,54 @@
+.PatientCSS {
+  text-align: center;
+  border: #49a8ba;
+  border-style: groove;
+  background-color: #49a8ba;
+  font-size: smaller;
+}
+
+.DoctorCSS {
+  text-align: center;
+  border: #ff7f61;
+  border-style: groove;
+  background-color: #ff7f61;
+  font-size: smaller;
+}
+.HospitalCSS {
+  text-align: center;
+  border: #4cc78f;
+  border-style: groove;
+  background-color: #4cc78f;
+  font-size: smaller;
+}
+.ClinicalCSS {
+  text-align: center;
+  border: #5480c2;
+  border-style: groove;
+  background-color: #5480c2;
+  font-size: smaller;
+}
+
+.DispensaryCSS {
+  text-align: center;
+  border: #ffc061;
+  border-style: groove;
+  background-color: #ffc061;
+  font-size: smaller;
+}
+.LabCSS {
+  text-align: center;
+  border: #ffa761;
+  border-style: groove;
+  background-color: #ffa761;
+  font-size: smaller;
+}
+.RadioCSS {
+  text-align: center;
+  border: #46b8b4;
+  border-style: groove;
+  background-color: #46b8b4;
+  font-size: smaller;
+}
+#main {
+  width: 237%;
+}
