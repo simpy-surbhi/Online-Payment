@@ -13,7 +13,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@types/react-stripe-elements": "^6.0.4",
     "@types/stripe": "^7.13.23",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "classlist.js": "^1.1.20150312",
     "material-ui": "^0.20.2",
